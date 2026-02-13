@@ -16,9 +16,9 @@
 
 Three Levels:
 
-Level 1. just you and asteroids, asteroids can be destroyed
+Level 1. just you and asteroids, asteroids can be destroyed for points
 
-Level 2. player, asteroids, and an enemy that shoots at the player
+Level 2. player-3 lives, asteroids, and an enemy that shoots at the player
 
 Level 3. player, enemies, and the big boss-5hp,1dmg
 
@@ -30,9 +30,9 @@ Level 3. player, enemies, and the big boss-5hp,1dmg
 
 added:
 
-Level 2. 
+Level 2. Score 3 points in Level 1 to access
 
-Level 3.
+Level 3. Score 3 points in Level 2 to access
 
 Menu scene, Death scene, Completion scene
 
